@@ -2,6 +2,9 @@
 
 ## Install this project on your local computer
 
+Clone or download this project and cd into it
+Run the below commands to set up for usage...
+
 Install dependencies for server and client
 
 ```bash
