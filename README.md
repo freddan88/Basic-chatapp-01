@@ -1,4 +1,4 @@
-# Basic-chatapp-01
+# BasicChatapp
 
 ## Install this project on your local computer
 
